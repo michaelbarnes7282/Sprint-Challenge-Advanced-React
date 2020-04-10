@@ -225,13 +225,13 @@ img {
   justify-content: center;
   border-radius: 5px;
   box-shadow: 0 1px 6px -2px #000;
-  background-color: #FFF;
+  background-color: #ccfff7;
   margin-bottom: 30px;
   margin: 10px 30px;
 }
 
 .dark-mode .card {
-  background-color: #313843;
+  background-color: #d15700;
 }
 
 .card .name {
